@@ -1,4 +1,4 @@
-## Super-Resolution of Digital Elevation Models using Adverserially Trained U-Net based Convolutional Residual Network with Attention.
+## Super-Resolution of Digital Elevation Models using Adversarially Trained U-Net based Convolutional Residual Network with Attention.
 
 This repository contains the code and notebooks for the project that competed at the Grand Finale of Smart India Hackathon 2022 for Department of Space, Indian Space Research Organisation (ISRO)'s probelm statement on *Super-Resolution of Digital Elevation Models* (SS600). The project was developed by team **sCUDA_Divers** from **Jamia Millia Islamia, New Delhi**.
 #### Team Members
